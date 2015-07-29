@@ -145,7 +145,7 @@ INSTALLED_APPS = [
     "reversion",
     "sitetree",
     "taggit",
-    "timezones",
+    "timezone_field",
 
     # symposion
     "symposion",
